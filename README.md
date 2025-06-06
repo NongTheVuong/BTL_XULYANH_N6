@@ -100,4 +100,8 @@ python scripts/visualize_results.py
 - Triển khai nhận diện thời gian thực với webcam
 - Tích hợp ứng dụng tra cứu thuốc bằng ảnh
 - Kết hợp nhận diện văn bản OCR (ghi chú kèm theo lá)
+## 👨‍💻 Tác giả
 
+Nông Thế Vương
+MSV: 1571020278
+Khoa Công Nghệ Thông Tin – Trường Đại Học Đại Nam
